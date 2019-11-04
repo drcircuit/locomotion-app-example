@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "locomotion": "^1.0.0"
+    "locomotion": "^1.0.5"
   }
 }
